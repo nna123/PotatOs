@@ -7,6 +7,18 @@ using namespace std;
 bool kernel_enabled = true;
 
 void kernel_details() {
+    cout << ____________________ << endl;
+    cout << ________█████_______ << endl;
+    cout << _____███_____███____ << endl;
+    cout << ___██__██_______██__ << endl;
+    cout << __██_______██__██___ << endl;
+    cout << __██__██______██____ << endl;
+    cout << __██___________██___ << endl;
+    cout << ____██_____██__██__ << endl;
+    cout << ______████____██___ << endl;
+    cout << __________████______ << endl;
+    cout << ____________________ << endl;
+    cout <<  << endl;
     cout << kernel_name() << " " << kernel_version() << endl << endl;
 }
 
